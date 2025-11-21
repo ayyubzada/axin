@@ -1,0 +1,6 @@
+@Axin.Api_HostAddress = http://localhost:5078
+
+GET {{Axin.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
